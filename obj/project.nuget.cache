@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TURHnTnLGm1b7Ou4IDG1bO8FO2YvyQdPau513jaX2b+Q2grWXnTSDGh1jsiebS2INJfKx/DIXENcbG7uZ0Q7Sw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\WordPad_WPF\\WordPad_WPF\\WordPad_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\nuget.frameworks\\6.6.0\\nuget.frameworks.6.6.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\simplify.resources\\1.0.2\\simplify.resources.1.0.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\simplify.windows.forms\\1.1.2\\simplify.windows.forms.1.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
